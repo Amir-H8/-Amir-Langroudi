@@ -1,4 +1,4 @@
-# Hi there 👋 I'm Amir Hassanzadeh
+# Hi there 👋 I'm Amir Langroudi
 A Data enthusiast passionate about turning data into actionable insights 📊.
 
 ⚡ Fun fact: I love exploring patterns in unexpected places—whether in data, markets, or daily life.
@@ -8,4 +8,4 @@ A Data enthusiast passionate about turning data into actionable insights 📊.
 
 💬 Talk to me about: French 🇫🇷 | Running 🏃 | Movies 🎥 | Travel ✈️ | Photography 📸
 
-📫 Connect with me: [LinkedIn](https://www.linkedin.com/in/amir-langroudi) | [Email](mailto:Amir.Hassanzadeh@Gmail.com)
+📫 Connect with me: [LinkedIn](https://www.linkedin.com/in/amir-langroudi) | [Email](mailto:ah.langroudi@gmail.com)
